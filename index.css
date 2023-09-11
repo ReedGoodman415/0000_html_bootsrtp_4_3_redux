@@ -18,4 +18,25 @@ footer {
     padding: 15px;
     border-radius: 10px;
   }
+/* Import Bootstrap 4.3 */
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css');
+
+/* Customize Bootstrap */
+.mySkills {
+  margin-top: 50px;
+}
+
+.myWork {
+  margin-top: 50px;
+}
+
+.workGrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.workGrid > div {
+  width: 50%;
+}
   
