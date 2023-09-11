@@ -1,0 +1,6 @@
+{} .hintrc
+{
+  "extends": [
+    "development"
+  ]
+}
